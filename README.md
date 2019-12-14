@@ -6,10 +6,10 @@ Navigator for other repo.
     Basic
     
         Geeks for Geeks
-        [Data Structure] (https://www.geeksforgeeks.org/data-structures/)
-        
+        [Data Structure](https://www.geeksforgeeks.org/data-structures/ "Geeks for Geeks Datastructure")
+
         Data Structure
-        [Summary and Code] (https://github.com/abhishek-honey/datastructure)
+        [Summary and Source Code](https://github.com/abhishek-honey/datastructure "Summary and Source Code")
         
         1.	Array
         2.	Linked List
