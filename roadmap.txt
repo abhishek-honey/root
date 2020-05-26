@@ -53,7 +53,7 @@
      -    
 -    Database
      -    Redis
-	  -    
+	  - https://github.com/abhishek-honey/database/blob/master/redis/Getting%20started%20with%20redis.txt   
      -    MongoDB
 	  -    
      -    Cassandra
