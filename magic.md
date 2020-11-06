@@ -31,3 +31,21 @@ System.out.println(countOfWords_usingtoMap);
 System.out.println(countOfWords_usingGroupingBy_summingInt);
 System.out.println(countOfWords_usingGroupingBy_counting);
 ```
+
+## Terminal
+
+### Search text in a file or compressed file
+```
+zgrep -i "<TEXT_TO_SEARCH>" *.gz
+grep -Ril "<TEXT_TO_SEARCH>" ./
+```
+
+### TCP Dump
+```
+sudo tcpdump -w captured.pcap -i eth0 host <IP_ADDRESS>
+```
+
+### While Condition
+```
+while true; do sudo netstat | grep <TEST>; sleep 5;done
+```
